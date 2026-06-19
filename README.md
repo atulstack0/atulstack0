@@ -1,222 +1,213 @@
-<!-- ANIMATED HEADER BANNER -->
+<!--
+═══════════════════════════════════════════════════════════════════════════
+  ATUL PATIL // GITHUB PROFILE README  —  "JARVIS / HUD" THEME
+  Drop this in a repo named EXACTLY  atulstack0  as  README.md
+  ─────────────────────────────────────────────────────────────────────────
+  NOTE: GitHub strips JS/CSS, so the "animation" comes from live SVG services
+  (typing, waves, stat cards, snake). All cards auto-update on their own.
+  The SNAKE image needs the one-time GitHub Action setup (see bottom of file).
+═══════════════════════════════════════════════════════════════════════════
+-->
+
+<!-- ╔═══ BOOT SEQUENCE ═══╗ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Atul%20Patil&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=The%20One%20Who%20Finds%20What%20Devs%20Missed%20🤫&descAlignY=60&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=18E0FF&center=true&vCenter=true&width=860&height=140&lines=%3E+initializing+core+systems+....+%5BOK%5D;%3E+loading+skill+matrix+%3A+java%2Fselenium%2Frest-assured+%5BOK%5D;%3E+mounting+genai%2Fllm+eval+modules+%5BOK%5D;%3E+calibrating+HUD+interface+%5BOK%5D;%3E+authenticating+operator+%3A+A.PATIL+%5BOK%5D" alt="boot sequence" />
+
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- ╔═══ HEADER WAVE ═══╗ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,100:0D3B4F&height=190&section=header&text=ATUL%20PATIL&fontSize=58&fontColor=18E0FF&fontAlignY=38&desc=QA%20LEAD%20%2F%2F%20SDET%20%2F%2F%20TEST%20AUTOMATION%20ARCHITECT&descSize=16&descAlignY=60&descColor=8AB4C8&animation=fadeIn" width="100%" alt="header" />
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=27D9A5&center=true&vCenter=true&width=650&lines=QA+Engineer+%F0%9F%94%8D+%7C+Web+Developer+%F0%9F%8C%90;Catch+Bugs%2C+Not+Feelings...+%F0%9F%90%9B;Testing+Today+for+a+Better+Tomorrow+%E2%9C%85;Always+Learning%2C+Always+Improving+%F0%9F%9A%80)](https://git.io/typing-svg)
+`// SYS.PROFILE.v2 — STATUS: ONLINE // PUNE · IN · 18.52°N 73.85°E`
 
-</div>
+### ⚡ "Catch Bugs, Not Feelings..."
 
-<!-- SOCIAL BADGES -->
-<div align="center">
+<a href="https://www.linkedin.com/in/atulstack/"><img src="https://img.shields.io/badge/LINKEDIN-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=18E0FF" alt="linkedin"/></a>
+<a href="https://github.com/atulstack0"><img src="https://img.shields.io/badge/GITHUB-0A0E1A?style=for-the-badge&logo=github&logoColor=18E0FF" alt="github"/></a>
+<a href="https://atulstack.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0E1A?style=for-the-badge&logo=netlify&logoColor=18E0FF" alt="portfolio"/></a>
+<a href="https://x.com/atulstack"><img src="https://img.shields.io/badge/X-0A0E1A?style=for-the-badge&logo=x&logoColor=18E0FF" alt="x"/></a>
+<a href="mailto:atulstack@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0E1A?style=for-the-badge&logo=gmail&logoColor=18E0FF" alt="email"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulstack)
-[![X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/atulstack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://atulstack.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atulstack@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/atulstack)
-
-![Profile Views](https://komarev.com/ghpvc/?username=atulstack0&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/OPERATOR-ONLINE-3FB950?style=flat-square&labelColor=0A0E1A" alt="online"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN_TO_SENIOR_SDET_ROLES-18E0FF?style=flat-square&labelColor=0A0E1A" alt="open"/>
+<img src="https://komarev.com/ghpvc/?username=atulstack0&style=flat-square&color=18E0FF&label=VISITORS" alt="visitors"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `// 01 — OPERATOR PROFILE`
 
-```yaml
-Name        : Atul Patil
-Role        : QA Engineer & Web Developer
-Location    : Pune, Maharashtra, India 📍
-Company     : Chat360
-Status      : Open to Work 🟢 (On-site · Hybrid · Remote)
-LeetCode    : Active problem solver ⚡
+```ansi
+[36m> WHO IS BEHIND THE CONSOLE[0m
 ```
 
-I'm a **passionate Software Tester and Web Developer** who believes that shipping quality software is a team sport — and I'm the goalkeeper for bugs 🥅.
+I'm a **QA Lead & SDET at Chat360**, an AI-powered omnichannel SaaS platform in Pune. I lead a **10-engineer QA team** — owning test strategy, framework architecture, and sprint-level quality gates across product, engineering, and AI/ML teams.
 
-- 🔍 I meticulously test software applications to ensure **functionality, usability, and performance** meet the highest standards
-- 🌐 I build **responsive and dynamic web applications** using modern front-end technologies
-- 🌱 Currently deepening my expertise in **Java**, **Automation Testing**, and **API Testing**
-- 🤝 Actively looking to **collaborate on open-source projects** and impactful tech solutions
-- 💡 I believe great QA isn't about breaking things — it's about preventing them from breaking in production
-- ⚡ Fun fact: *I read error logs for fun, and I'm not ashamed of it*
+I architected a **Java + Selenium + TestNG + Maven** framework on the Page Object Model that **cut manual testing effort by 40%**, and built **Rest Assured** suites across **50+ REST endpoints** wired into Jenkins CI/CD nightly pipelines.
 
----
+> **What sets me apart →** I test the *non-deterministic*. Traditional QA assumes a fixed expected output; LLM features don't play by those rules. I built evaluation strategies for a production NLP chatbot engine — **intent classification, fallback logic & prompt-response integrity across 120+ language inputs** — plus hallucination detection with **DeepEval, Promptfoo & Giskard**. Zero-critical-escape releases.
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="55" height="55"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="55" height="55"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="55" height="55"/>
-  </a>
-</p>
-
-### 🧪 Testing & QA Tools
-<p>
-  <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="55" height="55"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
-  </a>
-  <a href="https://jmeter.apache.org/" target="_blank">
-    <img src="https://jmeter.apache.org/images/jmeter_square.svg" alt="Apache JMeter" width="55" height="55"/>
-  </a>
-  <a href="https://junit.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original-wordmark.svg" alt="JUnit" width="55" height="55"/>
-  </a>
-</p>
-
-**Testing Expertise:**
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-✅-brightgreen?style=flat-square)
-![Automation Testing](https://img.shields.io/badge/Automation_Testing-✅-brightgreen?style=flat-square)
-![API Testing](https://img.shields.io/badge/API_Testing-✅-brightgreen?style=flat-square)
-![Performance Testing](https://img.shields.io/badge/Performance_Testing-✅-brightgreen?style=flat-square)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-✅-brightgreen?style=flat-square)
-![Defect Tracking](https://img.shields.io/badge/Defect_Tracking-✅-brightgreen?style=flat-square)
-
-### 🔧 Tools & Platforms
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="55" height="55"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="55" height="55"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="55" height="55"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="55" height="55"/>
-  </a>
-</p>
+<table>
+<tr><td><b>ROLE</b></td><td>QA Lead / SDET</td><td><b>EXP</b></td><td>4+ Years</td></tr>
+<tr><td><b>COMPANY</b></td><td>Chat360</td><td><b>EDU</b></td><td>MCA · B.Sc CS</td></tr>
+<tr><td><b>BASE</b></td><td>Pune, MH · India</td><td><b>TARGET</b></td><td>Senior SDET / AI Quality Engineer</td></tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+## `// 02 — SKILL MATRIX`
 
-### 🌐 Personal Portfolio | [🔗 Live Demo](https://atulstack.netlify.app/) | [📁 GitHub](https://github.com/atulstack0)
+**`> automation.core`**
 
-- **Description:** A modern, responsive portfolio website that serves as my digital identity — showcasing skills, projects, and professional journey as a QA Engineer and Web Developer.
-- **Technologies Used:** `HTML5` `CSS3` `JavaScript` `Netlify`
-- **Highlights:**
-  - 📱 Fully responsive across all devices
-  - ⚡ Fast-loading with optimised assets
-  - 🎨 Clean, modern UI with smooth interactions
-  - 🚀 Deployed via Netlify with continuous deployment
+![Java](https://img.shields.io/badge/Java-0A0E1A?style=for-the-badge&logo=openjdk&logoColor=18E0FF)
+![Selenium](https://img.shields.io/badge/Selenium-0A0E1A?style=for-the-badge&logo=selenium&logoColor=18E0FF)
+![TestNG](https://img.shields.io/badge/TestNG-0A0E1A?style=for-the-badge&logo=testinglibrary&logoColor=18E0FF)
+![Playwright](https://img.shields.io/badge/Playwright-0A0E1A?style=for-the-badge&logo=playwright&logoColor=18E0FF)
+![Cucumber](https://img.shields.io/badge/Cucumber_BDD-0A0E1A?style=for-the-badge&logo=cucumber&logoColor=18E0FF)
+![Maven](https://img.shields.io/badge/Maven-0A0E1A?style=for-the-badge&logo=apachemaven&logoColor=18E0FF)
+![Appium](https://img.shields.io/badge/Appium-0A0E1A?style=for-the-badge&logo=appium&logoColor=18E0FF)
 
----
+**`> api.and.ci_cd`**
 
-> 💡 *Explore all 30+ repositories on my [GitHub profile](https://github.com/atulstack0?tab=repositories) for more projects!*
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-0A0E1A?style=for-the-badge&logo=postman&logoColor=18E0FF)
+![Postman](https://img.shields.io/badge/Postman-0A0E1A?style=for-the-badge&logo=postman&logoColor=18E0FF)
+![Jenkins](https://img.shields.io/badge/Jenkins-0A0E1A?style=for-the-badge&logo=jenkins&logoColor=18E0FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0E1A?style=for-the-badge&logo=githubactions&logoColor=18E0FF)
+![Docker](https://img.shields.io/badge/Docker-0A0E1A?style=for-the-badge&logo=docker&logoColor=18E0FF)
+![JMeter](https://img.shields.io/badge/JMeter-0A0E1A?style=for-the-badge&logo=apachejmeter&logoColor=18E0FF)
+![k6](https://img.shields.io/badge/k6-0A0E1A?style=for-the-badge&logo=k6&logoColor=18E0FF)
 
----
+**`> genai.llm.qa`** &nbsp;`◂ the differentiator`
 
-## 📊 GitHub Stats
+<kbd> LLM Evaluation </kbd> <kbd> DeepEval </kbd> <kbd> Promptfoo </kbd> <kbd> Giskard </kbd> <kbd> Hallucination Detection </kbd> <kbd> Intent Classification </kbd> <kbd> Prompt Regression </kbd> <kbd> Groundedness Scoring </kbd>
+![Ollama](https://img.shields.io/badge/Ollama-0A0E1A?style=for-the-badge&logo=ollama&logoColor=18E0FF)
 
-<div align="center">
+**`> languages.and.tools`**
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Atul's GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulstack0&theme=tokyonight&hide_border=true" alt="Atul's GitHub Streak" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulstack0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atulstack0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0E1A?style=for-the-badge&logo=javascript&logoColor=18E0FF)
+![Python](https://img.shields.io/badge/Python-0A0E1A?style=for-the-badge&logo=python&logoColor=18E0FF)
+![MySQL](https://img.shields.io/badge/MySQL-0A0E1A?style=for-the-badge&logo=mysql&logoColor=18E0FF)
+![AWS](https://img.shields.io/badge/AWS-0A0E1A?style=for-the-badge&logo=amazonwebservices&logoColor=18E0FF)
+![Linux](https://img.shields.io/badge/Linux-0A0E1A?style=for-the-badge&logo=linux&logoColor=18E0FF)
+![Git](https://img.shields.io/badge/Git-0A0E1A?style=for-the-badge&logo=git&logoColor=18E0FF)
+![Jira](https://img.shields.io/badge/Jira-0A0E1A?style=for-the-badge&logo=jira&logoColor=18E0FF)
 
 ---
 
-## 🎯 Current Focus
+## `// 03 — QUALITY PIPELINE` &nbsp;`[ live diagram ]`
 
-```
-🔭  Sharpening Selenium + Java automation skills
-🌱  Exploring REST API testing with Postman & RestAssured
-🧩  Building end-to-end test frameworks from scratch
-💼  Open to exciting QA / Software Testing opportunities
-🤝  Looking to collaborate on impactful open-source projects
+```mermaid
+flowchart LR
+    A[Commit / PR] --> B{GitHub Actions}
+    B -->|sanity| C[Smoke Suite]
+    B -->|on merge| D[Regression Suite]
+    C --> E[Rest Assured API]
+    D --> E
+    E --> F[LLM Eval Gate<br/>DeepEval · Promptfoo · Giskard]
+    F -->|pass| G[ExtentReports + Slack]
+    F -->|fail| H[RetryAnalyzer / Triage]
+    H --> D
+    G --> I[(Zero-Critical-Escape Release)]
 ```
 
 ---
 
-## 💼 Experience
+## `// 04 — DEPLOYED SYSTEMS`
 
-**QA Engineer @ Chat360** *(Current)*
-> 🏢 Pune, India — testing intelligent conversational AI products at scale
+<details open>
+<summary><b>▸ PRJ_001 — AutoApply // AI Job-Application Bot</b></summary>
 
-**Software Tester & Web Developer @ MiM-Essay** *(Previous)*
-> 🏢 South Delhi — combined testing and development to deliver high-quality software solutions
+> Full-stack automation platform with a **cascading AI engine** (OpenAI → Gemini → Ollama → keyword fallback), multi-portal workers for **Naukri, LinkedIn, Indeed & company pages**, multi-ATS support (Workday, Greenhouse, Lever), AI job scoring, and a real-time Express + Socket.io dashboard with live KPIs, logs & screenshots. Handles CAPTCHA, OTP, multi-step forms with anti-detection and exponential-backoff retries.
+>
+> `Node.js` `Playwright` `Express` `Socket.io` `SQLite` `Ollama LLM`
+
+</details>
+
+<details>
+<summary><b>▸ PRJ_002 — Chat360 Test Automation Framework</b></summary>
+
+> **Selenium 4 + Java 17 + TestNG + Maven** on the Page Object Model — **9 modules, 8 page objects, 13 suites** (login, campaigns, templates, live chat, webhooks, WhatsApp). Rest-Assured API tests with **Gmail API OTP extraction** for 2FA, ExtentReports dashboards with Slack summaries, Log4j2, a flaky-test RetryAnalyzer, and GitHub Actions + Jenkins gates on every PR.
+>
+> `Java 17` `Selenium 4` `TestNG` `Maven` `Rest Assured` `ExtentReports`
+>
+> [↗ SOURCE](https://github.com/atulstack0/Automation)
+
+</details>
+
+<details>
+<summary><b>▸ PRJ_003 — LLM Chatbot Evaluation Suite</b></summary>
+
+> AI/ML feature validation for Chat360's LLM-powered NLP chatbot engine — intent classification, fallback logic, prompt-response integrity, and edge-case handling **across 120+ language inputs**, with hallucination detection via DeepEval, Promptfoo & Giskard.
+>
+> `DeepEval` `Promptfoo` `Giskard` `Cucumber` `Prompt Testing`
+
+</details>
+
+<details>
+<summary><b>▸ PRJ_004 — API & Cross-Channel Suite</b></summary>
+
+> Rest Assured & Postman suites covering **50+ REST endpoints** — WhatsApp Business API, CRM webhooks & payment callbacks — with JSON schema + status-code validation. Cross-channel Selenium testing across WhatsApp, Instagram, Messenger & web in nightly Jenkins pipelines.
+>
+> `Rest Assured` `Postman` `WhatsApp API` `Webhooks` `Jenkins`
+
+</details>
 
 ---
 
-## 🎓 Education
-
-**Vidhyanchal Shikshan Sanstha**
-> 📚 Foundation for a career in technology and software engineering
-
----
-
-## 🐍 Contribution Graph
+## `// 05 — TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=1a1b27&color=38bdae&line=628fda&point=e8e01c&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=18E0FF&icon_color=18E0FF&text_color=8AB4C8&include_all_commits=true" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.demolab.com?user=atulstack0&hide_border=true&background=0A0E1A&stroke=0D3B4F&ring=18E0FF&fire=FFB000&currStreakLabel=18E0FF&sideLabels=8AB4C8&dates=4A5A66&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=0A0E1A&color=18E0FF&line=18E0FF&point=FFB000&area=true&hide_border=true&custom_title=Contribution%20Telemetry" width="98%" alt="activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=atulstack0&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
+
+<!-- ╔═══ SNAKE — requires the GitHub Action in the setup section to populate ═══╗ -->
+<img src="https://raw.githubusercontent.com/atulstack0/atulstack0/output/github-snake-dark.svg" alt="contribution snake" width="98%" />
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## `// 06 — MISSION LOG`
 
-<div align="center">
+```
+[ JAN 2025 — PRESENT ]  QA LEAD & SDET · Chat360 · Pune
+  └─ Architected Java/Selenium/TestNG/Maven framework (POM + PageFactory) → manual effort -40%
+  └─ Spearheaded LLM-chatbot validation across 120+ language inputs (BDD Cucumber)
+  └─ Built Rest Assured + Postman suites for 50+ REST endpoints in Jenkins nightly pipelines
 
-| Platform | Link |
-|:--------:|:----:|
-| 💼 **LinkedIn** | [linkedin.com/in/atulstack](https://linkedin.com/in/atulstack) |
-| 🐦 **X (Twitter)** | [@atulstack](https://x.com/atulstack) |
-| 🌐 **Portfolio** | [atulstack.netlify.app](https://atulstack.netlify.app/) |
-| 📧 **Email** | [atulstack@gmail.com](mailto:atulstack@gmail.com) |
-| 💻 **GitHub** | [@atulstack0](https://github.com/atulstack0) |
-| 🧩 **LeetCode** | [leetcode.com/atulstack](https://leetcode.com/atulstack) |
+[ MAY 2022 — JAN 2025 ]  SOFTWARE TESTER · MiM-Essay · Delhi
+  └─ Manual + automation across 4 products within structured SDLC/STLC
+  └─ Selenium / Playwright / TestNG + Postman/SOAP UI → efficiency +30%, exec time -25%
+  └─ Cross-browser verification: Chrome, Firefox, Safari, Edge × Windows/macOS/Android
 
-</div>
+[ 2016 — 2023 ]  MCA · B.Sc COMPUTER SCIENCE
+  └─ Dr. B.A.M. University (Aurangabad) · North Maharashtra University (Jalgaon)
+
+[ AWARD ]  🛡  RELEASE SHIELD — zero critical defect escapes across Chat360 releases
+```
 
 ---
 
-<!-- FOOTER WAVE -->
+## `// TRANSMISSION`
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-  **🐛 "Catch Bugs, Not Feelings..." 🐛**
+**Available for Senior QA / SDET / AI Quality Engineer roles.**
+Let's talk automation architecture, quality at scale, or testing the AI frontier.
 
-  *Made with ❤️ by Atul Patil — Pune, India 🇮🇳*
+<a href="mailto:atulstack@gmail.com"><img src="https://img.shields.io/badge/▸_OPEN_A_CHANNEL-18E0FF?style=for-the-badge&labelColor=0A0E1A&logo=minutemailer&logoColor=0A0E1A" alt="contact"/></a>
 
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3B4F,100:0A0E1A&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=18&fontColor=18E0FF&fontAlignY=72&animation=fadeIn" width="100%" alt="footer" />
+
+`// ATUL PATIL © 2026 · PUNE, IN · BUILT IN THE NEW ERA`
 
 </div>
