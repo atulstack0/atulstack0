@@ -1,165 +1,174 @@
-<!-- ✦ ✧ ✦   DEEP SPACE MISSION FILE — ASTRONAUT ATUL PATIL   ✦ ✧ ✦ -->
-<!-- Mission Control, we have a quality problem. Engaging QA Protocol. -->
+<!-- ████ CASE FILE — THE BUG HUNTER ████ -->
+<!-- Detective Agency: Software Quality Division -->
+<!-- Case Status: OPEN — No Bug Goes Unpunished -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=4,8,17,21&height=280&section=header&text=%F0%9F%9A%80+ATUL+PATIL&fontSize=58&fontColor=A855F7&animation=fadeIn&fontAlignY=48&desc=%E2%9C%A6+QA+ENGINEER+%7C+WEB+DEVELOPER+%7C+DEEP+SPACE+BUG+PATROL&descAlignY=70&descSize=18&descColor=06D6A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,12,5&height=270&section=header&text=%F0%9F%90%9B+THE+BUG+HUNTER&fontSize=52&fontColor=FF2D2D&animation=fadeIn&fontAlignY=48&desc=Detective+Atul+Patil+%7C+Software+Quality+Division+%7C+Case+No.+∞&descAlignY=70&descSize=17&descColor=FFC233" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2800&pause=1100&color=A855F7&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+MISSION+CONTROL+%7C+QA+Engineer+Online...;%E2%9C%A6+Navigating+the+Bug+Nebula+%7C+Defects+Neutralized;%F0%9F%AA%90+Automation+Satellite+Deployed+%7C+Selenium+Grid+Active;%F0%9F%8C%8C+API+Observatory+Scanning+%7C+Postman+Telescope+Ready;%E2%9C%85+Landing+Confirmed+%7C+Zero+Defects+in+Orbit)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&duration=2000&pause=800&color=FF2D2D&center=true&vCenter=true&width=780&lines=%F0%9F%94%8D+Bug+Detected...+Investigating...+Case+OPENED;%E2%9A%A0%EF%B8%8F+ALERT%3A+Defect+found+in+production+%E2%86%92+NEUTRALIZED;%F0%9F%94%AC+Selenium+Evidence+Collected+%7C+159+Test+Witnesses;%F0%9F%93%9C+Case+Report+Filed+%7C+All+bugs+accounted+for;%E2%9C%85+CASE+CLOSED+%7C+Zero+defects+escape+on+my+watch)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=atulstack0&style=for-the-badge&color=A855F7&labelColor=030B17&label=SPACE+PROBES+SENT)
+![Profile Views](https://komarev.com/ghpvc/?username=atulstack0&style=for-the-badge&color=FF2D2D&labelColor=1A0A0A&label=CASE+FILES+OPENED)
 
 </div>
 
 ---
 
+## 📁 DETECTIVE FILE — OPERATIVE PROFILE
+
 <div align="center">
 
-## 🌌 MISSION BRIEFING — ASTRONAUT FILE
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🔴 CONFIDENTIAL — SOFTWARE QUALITY DIVISION                 ║
+╠══════════════════════════════════════════════════════════════╣
+║  DETECTIVE     : Atul Patil                                  ║
+║  BADGE NUMBER  : @atulstack0                                 ║
+║  DIVISION      : QA Engineering & Web Development            ║
+║  PRECINCT      : Chat360 HQ, Pune, Maharashtra, India 📍    ║
+║  PRIOR STATION : MiM-Essay, South Delhi                      ║
+║  AVAILABILITY  : 🟢 AVAILABLE — On-site · Hybrid · Remote   ║
+║  CASE RECORD   : PERFECT — No defect escapes to production   ║
+║  MOTTO         : "Catch Bugs, Not Feelings..."  🐛           ║
+╠══════════════════════════════════════════════════════════════╣
+║  CLEARANCE LEVEL : TOP SECRET — Full production access       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-```
-    ╔═══════════════════════════════════════════════════════════╗
-    ║  ✦ CALLSIGN     :  Atul Patil  [ atulstack0 ]            ║
-    ║  ✦ MISSION TYPE :  QA Engineer & Web Developer           ║
-    ║  ✦ BASE STATION :  Pune, Maharashtra, India 📍           ║
-    ║  ✦ ACTIVE CREW  :  Chat360 Mission                        ║
-    ║  ✦ PREV MISSION :  MiM-Essay, South Delhi                 ║
-    ║  ✦ LAUNCH READY :  🟢 ON-SITE · HYBRID · REMOTE          ║
-    ║  ✦ MISSION GOAL :  Navigate to Zero-Defect Orbit 🎯      ║
-    ╚═══════════════════════════════════════════════════════════╝
-```
-
 <details>
-<summary>🔭 <b>EXPAND — FULL MISSION DOSSIER</b></summary>
+<summary>🔍 <b>EXPAND — OPERATIVE BACKGROUND CHECK</b></summary>
 <br/>
 
-> Like a deep-space explorer probing unknown planets, I **map the unexplored territory of software** — finding failures before users do, charting the path to quality, and never returning to base until the mission is complete.
+> I'm the detective your software didn't know it needed. Where others see "working features," I see **aliased edge cases, hidden race conditions, and lurking performance bottlenecks**. I don't wait for bugs to find the user — I find them first.
 
-- 🔍 I probe **functionality, usability, and performance** across all dimensions of software systems
-- 🌐 I also construct **responsive, dynamic web applications** using modern tech constellations
-- 🌱 Currently expanding my trajectory: **Java**, **Selenium Automation**, **API Testing**
-- 🤝 Seeking fellow explorers for **open-source missions** with real-world impact
-- 💡 *Great QA is navigation — charting safe paths to production, not waiting for crashes*
-- ⚡ Reads error logs like star maps. Always finds the anomaly.
+- 🔍 I apply forensic-level analysis to **functionality, usability, and performance** — nothing hides from methodical testing
+- 🌐 I also build **responsive, dynamic web applications** — so I understand the crime scene from both sides
+- 🌱 Currently sharpening investigative tools: **Java**, **Selenium Automation**, **API Testing** with RestAssured
+- 🤝 Seeking **collaborative case partners** for open-source quality missions
+- 💡 *A great QA doesn't break software — they prevent software from ever being broken*
+- ⚡ Personal hobby: reading stack traces and error logs. Finds it relaxing.
 
 </details>
 
 ---
 
-## 🪐 TECH CONSTELLATION — EQUIPPED FOR DEEP SPACE
+## 🧰 DETECTIVE TOOLKIT — EVIDENCE COLLECTION ARSENAL
 
-**🌟 Language Stars:**
+**🔫 Language Weapons:**
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=dark&perline=4)](https://skillicons.dev)
 
-**🔭 Testing Instruments:**
+**🔬 Forensic Testing Tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=selenium,postman,git,github&theme=dark&perline=4)](https://skillicons.dev)
 
-**🛸 Mission Control Tools:**
+**📋 Case Management Systems:**
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,netlify&theme=dark&perline=4)](https://skillicons.dev)
 
-**🌌 Mission Capabilities — Skill Constellation:**
+**🎯 Investigative Specializations — Threat Assessment:**
 
-```
-MANUAL TESTING         ★★★★★★  ··················  [ 100% MASTERED  ]
-AUTOMATION TESTING     ★★★★★☆  ···············     [  85% ADVANCED  ]
-API TESTING            ★★★★★☆  ···············     [  85% ADVANCED  ]
-PERFORMANCE TESTING    ★★★★☆☆  ············        [  75% ACTIVE    ]
-TEST CASE DESIGN       ★★★★★★  ··················  [ 100% MASTERED  ]
-DEFECT TRACKING        ★★★★★★  ··················  [ 100% MASTERED  ]
-```
-
----
-
-## 🛸 MISSION LOG — ORBITAL HISTORY
-
-<table>
-<tr>
-<td>
-
-### 🟢 CURRENT ORBIT — Chat360 | Pune, India
-
-**Mission Type:** Active · QA Engineer
-
-> Testing conversational AI systems and NLP-powered chatbot pipelines. Shipping quality through automation frameworks, API validations, and Agile sprint cycles. Every release is a safe landing.
-
-**Systems Operated:** Selenium · Postman · Jira · Agile  
-**Mission Status:** 🟢 ONGOING · No critical defects in orbit
-
-</td>
-</tr>
-<tr>
-<td>
-
-### ✅ COMPLETED MISSION — MiM-Essay | South Delhi
-
-**Mission Type:** Dual-Class · Tester + Developer
-
-> A rare twin-engine mission. Built web features from scratch while simultaneously testing them for quality. Ensured every feature landed safely before deployment to the user universe.
-
-**Systems Operated:** Manual Testing · JS/HTML/CSS · Bug Tracking  
-**Mission Status:** ✅ COMPLETED · All objectives achieved
-
-</td>
-</tr>
-</table>
+| 🔴 Capability | Severity Level | Evidence Count |
+|:---|:---:|:---:|
+| 🕵️ Manual Testing | `CRITICAL` | 🔴🔴🔴🔴🔴 |
+| 🤖 Automation Testing | `HIGH` | 🔴🔴🔴🔴🟡 |
+| 📡 API Testing | `HIGH` | 🔴🔴🔴🔴🟡 |
+| 🔥 Performance Testing | `MEDIUM` | 🔴🔴🔴🟡🟡 |
+| 📋 Test Case Design | `CRITICAL` | 🔴🔴🔴🔴🔴 |
+| 🐛 Defect Tracking | `CRITICAL` | 🔴🔴🔴🔴🔴 |
 
 ---
 
-## 🚀 LAUNCHPAD — KEY MISSION PROJECTS
+## 📋 CASE HISTORY — FIELD ASSIGNMENTS
+
+<details>
+<summary>🔴 <b>ACTIVE CASE: Chat360 — QA Engineer | Pune, India</b></summary>
+<br/>
+
+> **Case Brief:** Ongoing investigation into conversational AI product quality
+> 
+> - 🤖 Interrogating NLP pipeline outputs and chatbot conversation flows for defects
+> - 🔄 Running regression sweeps across every sprint release
+> - 📡 Stress-testing API endpoints via Postman collections
+> - 🤝 Embedded with dev team — quality witness from Day 1 of every feature
+> 
+> **Evidence Status:** 0 critical bugs shipped to production. Case ongoing. ✅
+
+</details>
+
+<details>
+<summary>✅ <b>CLOSED CASE: MiM-Essay — Tester & Web Dev | South Delhi</b></summary>
+<br/>
+
+> **Case Brief:** Dual-role undercover operation — build AND test the product
+> 
+> - 🌐 Developed web features from scratch — deep knowledge of the suspect's architecture
+> - 🔍 Tested every feature personally — double agent approach to quality
+> - 🐛 Filed defect reports, tracked resolution, and verified fixes
+> - ✅ All releases cleared before deployment
+> 
+> **Evidence Status:** Case CLOSED. All objectives achieved. No open defects. ✅
+
+</details>
+
+---
+
+## 🗃️ EVIDENCE LOCKER — CASE PROJECT FILES
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td>
 
-### 🤖 [Automation Satellite](https://github.com/atulstack0/Automation)
-`Java` + `Selenium WebDriver`  
-159 orbital commits · WebDriver docking · Locator mapping  
-Assertion probes · Implicit/Explicit wait protocols  
-Real-world test scenarios: SpiceJet, ClearTrip, Google
+### 🔴 [Case #001: AUTOMATION](https://github.com/atulstack0/Automation)
+
+> **Crime investigated:** Can Selenium catch every UI bug?  
+> **Verdict:** YES. 159 commits of WebDriver evidence collected.  
+> Stack: `Java` + `Selenium` + `JUnit`  
+> Exhibits: Locators, Waits, Assertions, Live Site Tests
 
 </td>
-<td align="center" width="50%">
+<td>
 
-### 💳 [Spark-Bank Station](https://github.com/atulstack0/Spark-Bank)
-`JavaScript` + `HTML` + `CSS`  
-Sparks Foundation Web Project  
-Fully responsive banking interface  
-Dynamic UI with clean interactions
+### 🟡 [Case #002: SPARK-BANK](https://github.com/atulstack0/Spark-Bank)
+
+> **Crime investigated:** Building a bank app that works flawlessly  
+> **Verdict:** Acquitted. Zero functional defects found.  
+> Stack: `JavaScript` + `HTML` + `CSS`  
+> Exhibit: Fully functional banking UI for Sparks Foundation
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td>
 
-### 🌐 [Portfolio Beacon](https://github.com/atulstack0/Portfolio)
-`HTML5` + `CSS3` + `Netlify`  
-Live portfolio — always transmitting  
-[🔗 Visit: atulstack.netlify.app](https://atulstack.netlify.app/)  
-Responsive · Fast · Professional
+### 🟡 [Case #003: PORTFOLIO](https://github.com/atulstack0/Portfolio)
+
+> **Crime investigated:** Does the detective's own website work?  
+> **Verdict:** Yes. Still live. Still clean.  
+> Stack: `HTML5` + `CSS3` → [Live Evidence →](https://atulstack.netlify.app/)  
+> Exhibit: Responsive professional portfolio
 
 </td>
-<td align="center" width="50%">
+<td>
 
-### 🔷 [Shape-AI Probe](https://github.com/atulstack0/Shape-Ai-Bootstrap-Project)
-`HTML` + `CSS` + `Bootstrap`  
-AI-themed responsive UI project  
-Bootstrap grid mastery  
-Mobile-first design patterns
+### 🟢 [Case #004: SHAPE-AI](https://github.com/atulstack0/Shape-Ai-Bootstrap-Project)
+
+> **Crime investigated:** Bootstrap responsiveness under pressure  
+> **Verdict:** Passed all breakpoints. Clean release.  
+> Stack: `HTML` + `CSS` + `Bootstrap`  
+> Exhibit: AI-themed responsive layout
 
 </td>
 </tr>
@@ -167,79 +176,79 @@ Mobile-first design patterns
 
 </div>
 
-> 🔭 [**Explore all 25 mission repositories →**](https://github.com/atulstack0?tab=repositories)
+> 📁 [**BROWSE ALL 25 CASE FILES IN EVIDENCE LOCKER →**](https://github.com/atulstack0?tab=repositories)
 
 ---
 
-## 📡 MISSION CONTROL — TELEMETRY DATA
+## 📊 PRECINCT STATS — CASE CLOSURE METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=06D6A0&text_color=FFFFFF&bg_color=030B17" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulstack0&theme=vision-friendly-dark&hide_border=true&ring=A855F7&fire=06D6A0&currStreakLabel=A855F7&background=030B17&sideLabels=06D6A0&sideNums=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FF2D2D&icon_color=FFC233&text_color=FFFFFF&bg_color=1A0A0A" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulstack0&theme=dark&hide_border=true&ring=FF2D2D&fire=FFC233&currStreakLabel=FF2D2D&background=1A0A0A&sideLabels=FFC233&sideNums=FFFFFF" width="49%"/>
 
 </div>
 
 ---
 
-## 🗺️ STAR MAP — CONTRIBUTION NEBULA
+## 🗺️ CRIME SCENE MAP — CONTRIBUTION HEATMAP
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=030B17&color=A855F7&line=06D6A0&point=FFFFFF&area=true&area_color=1E0A3C&hide_border=true&custom_title=%F0%9F%9A%80+Deep+Space+Contribution+Nebula+%7C+Mission+Activity+Map" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=1A0A0A&color=FF2D2D&line=FFC233&point=FFFFFF&area=true&area_color=3D0000&hide_border=true&custom_title=%F0%9F%94%8D+Bug+Hunter+Activity+Log+%7C+Forensic+Evidence+Timeline" width="95%"/>
 
 </div>
 
 ---
 
-## 🏆 COSMIC ACHIEVEMENTS — ASTRONAUT BADGES
+## 🏆 COMMENDATIONS — DETECTIVE BADGES & HONORS
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=atulstack0&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=atulstack0&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 <div align="center">
 
-![Quickdraw](https://img.shields.io/badge/🏅+Quickdraw-ORBIT+ACHIEVED-A855F7?style=for-the-badge&labelColor=030B17)
-![Pull Shark](https://img.shields.io/badge/🦈+Pull+Shark+×2-DEEP+SPACE-06D6A0?style=for-the-badge&labelColor=030B17)
-![YOLO](https://img.shields.io/badge/🎲+YOLO-WARP+SPEED-A855F7?style=for-the-badge&labelColor=030B17)
+![Quickdraw](https://img.shields.io/badge/🏅_QUICKDRAW-COMMENDATION-FF2D2D?style=for-the-badge&labelColor=1A0A0A)
+![Pull Shark](https://img.shields.io/badge/🦈_PULL_SHARK_×2-COMMENDATION-FFC233?style=for-the-badge&labelColor=1A0A0A)
+![YOLO](https://img.shields.io/badge/🎲_YOLO-COMMENDATION-FF2D2D?style=for-the-badge&labelColor=1A0A0A)
 
 </div>
 
 ---
 
-## 🎓 TRAINING ACADEMY — MISSION ORIGIN POINT
+## 🎓 TRAINING ACADEMY — DETECTIVE ORIGIN
 
 > **🏫 ACADEMY:** Vidhyanchal Shikshan Sanstha  
-> **📚 PROGRAM:** Technology & Software Engineering  
-> **🚀 LAUNCH STATUS:** `CLEARED FOR DEEP SPACE MISSIONS ✅`
+> **📚 FIELD:** Technology & Software Engineering  
+> **🏆 HONOR STATUS:** `GRADUATED ✅ — Certified for active QA investigations`
 
 ---
 
-## 📡 OPEN FREQUENCIES — HAIL ME
+## 📞 CONTACT THE DETECTIVE
 
 <div align="center">
 
-| 🌌 Station | 📡 Frequency | 🟢 Signal |
+| 📟 Method | 🔗 Channel | ⚡ Response |
 |:---:|:---:|:---:|
-| 💼 LinkedIn | [linkedin.com/in/atulstack](https://linkedin.com/in/atulstack) | STRONG |
-| 🐦 X Transmitter | [@atulstack](https://x.com/atulstack) | STRONG |
-| 🌐 Beacon Site | [atulstack.netlify.app](https://atulstack.netlify.app/) | LIVE |
-| 📧 Comm Relay | [atulstack@gmail.com](mailto:atulstack@gmail.com) | OPEN |
-| 💻 Code Vault | [@atulstack0](https://github.com/atulstack0) | ACCESSIBLE |
-| 🧩 Compute Core | [leetcode.com/atulstack](https://leetcode.com/atulstack) | SOLVING |
+| 💼 LinkedIn | [linkedin.com/in/atulstack](https://linkedin.com/in/atulstack) | Fast |
+| 🐦 X Signal | [@atulstack](https://x.com/atulstack) | Fast |
+| 🌐 HQ | [atulstack.netlify.app](https://atulstack.netlify.app/) | Always Live |
+| 📧 Secure Mail | [atulstack@gmail.com](mailto:atulstack@gmail.com) | 24hrs |
+| 💻 Evidence Vault | [@atulstack0](https://github.com/atulstack0) | Open |
+| 🧩 Puzzle Lab | [leetcode.com/atulstack](https://leetcode.com/atulstack) | Active |
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030B17)](https://linkedin.com/in/atulstack)
-[![X](https://img.shields.io/badge/X_(Twitter)-06D6A0?style=for-the-badge&logo=x&logoColor=white&labelColor=030B17)](https://x.com/atulstack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=030B17)](https://atulstack.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-06D6A0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030B17)](mailto:atulstack@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-A855F7?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=030B17)](https://leetcode.com/atulstack)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF2D2D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0A0A)](https://linkedin.com/in/atulstack)
+[![X](https://img.shields.io/badge/X_(Twitter)-FFC233?style=for-the-badge&logo=x&logoColor=black&labelColor=1A0A0A)](https://x.com/atulstack)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D2D?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=1A0A0A)](https://atulstack.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-FFC233?style=for-the-badge&logo=gmail&logoColor=black&labelColor=1A0A0A)](mailto:atulstack@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FF2D2D?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A0A0A)](https://leetcode.com/atulstack)
 
 </div>
 
@@ -247,9 +256,9 @@ Mobile-first design patterns
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=4,8,17,21&height=150&section=footer&text=%F0%9F%9A%80+MISSION+COMPLETE&fontSize=30&fontColor=A855F7&animation=fadeIn&fontAlignY=55&desc=Zero+defects+reached.+Returning+to+base.&descAlignY=78&descSize=16&descColor=06D6A0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,12,5&height=140&section=footer&text=%F0%9F%94%8D+CASE+CLOSED&fontSize=32&fontColor=FF2D2D&animation=fadeIn&fontAlignY=55&desc=No+bug+escapes.+Not+on+my+watch.&descAlignY=78&descSize=16&descColor=FFC233" width="100%"/>
 
-**✦ *"Catch Bugs, Not Feelings..."* ✦**  
-*Launched from Pune, India 🇮🇳 · Atul Patil · atulstack0*
+**🔴 *"Catch Bugs, Not Feelings..."* 🐛**  
+*Detective Atul Patil · Software Quality Division · Pune, India 🇮🇳*
 
 </div>
