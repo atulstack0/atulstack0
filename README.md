@@ -17,7 +17,7 @@
 </div>
 
 <!-- ╔═══ HEADER WAVE ═══╗ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E1A,100:0D3B4F&height=190&section=header&text=ATUL%20PATIL&fontSize=58&fontColor=18E0FF&fontAlignY=38&desc=QA%20LEAD%20%2F%2F%20SDET%20%2F%2F%20TEST%20AUTOMATION%20ARCHITECT&descSize=16&descAlignY=60&descColor=8AB4C8&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D3B4F&height=190&section=header&text=ATUL%20PATIL&fontSize=58&fontColor=18E0FF&fontAlignY=38&desc=QA%20LEAD%20%2F%2F%20SDET%20%2F%2F%20TEST%20AUTOMATION%20ARCHITECT&descSize=16&descAlignY=60&descColor=8AB4C8&animation=fadeIn" width="100%" alt="header" />
 
 <div align="center">
 
@@ -34,6 +34,11 @@
 <img src="https://img.shields.io/badge/OPERATOR-ONLINE-3FB950?style=flat-square&labelColor=0A0E1A" alt="online"/>
 <img src="https://img.shields.io/badge/STATUS-OPEN_TO_SENIOR_SDET_ROLES-18E0FF?style=flat-square&labelColor=0A0E1A" alt="open"/>
 <img src="https://komarev.com/ghpvc/?username=atulstack0&style=flat-square&color=18E0FF&label=VISITORS" alt="visitors"/>
+
+<br/><br/>
+
+<!-- ╔═══ SNAKE — sits under the name; needs the GitHub Action (see SETUP) to populate ═══╗ -->
+<img src="https://raw.githubusercontent.com/atulstack0/atulstack0/output/github-snake-dark.svg" alt="contribution snake" width="98%" />
 
 </div>
 
@@ -102,16 +107,16 @@ I architected a **Java + Selenium + TestNG + Maven** framework on the Page Objec
 
 ```mermaid
 flowchart LR
-    A[Commit / PR] --> B{GitHub Actions}
-    B -->|sanity| C[Smoke Suite]
-    B -->|on merge| D[Regression Suite]
-    C --> E[Rest Assured API]
+    A["Commit / PR"] --> B{"GitHub Actions"}
+    B -->|sanity| C["Smoke Suite"]
+    B -->|on merge| D["Regression Suite"]
+    C --> E["Rest Assured API"]
     D --> E
-    E --> F[LLM Eval Gate<br/>DeepEval · Promptfoo · Giskard]
-    F -->|pass| G[ExtentReports + Slack]
-    F -->|fail| H[RetryAnalyzer / Triage]
+    E --> F["LLM Eval Gate<br/>DeepEval, Promptfoo, Giskard"]
+    F -->|pass| G["ExtentReports + Slack"]
+    F -->|fail| H["RetryAnalyzer / Triage"]
     H --> D
-    G --> I[(Zero-Critical-Escape Release)]
+    G --> I[("Zero-Critical-Escape Release")]
 ```
 
 ---
@@ -163,14 +168,11 @@ flowchart LR
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&hide_border=true&bg_color=0A0E1A&title_color=18E0FF&icon_color=18E0FF&text_color=8AB4C8&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.demolab.com?user=atulstack0&hide_border=true&background=0A0E1A&stroke=0D3B4F&ring=18E0FF&fire=FFB000&currStreakLabel=18E0FF&sideLabels=8AB4C8&dates=4A5A66&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=atulstack0&hide_border=true&background=0A0E1A&stroke=0D3B4F&ring=18E0FF&fire=FFB000&currStreakLabel=18E0FF&sideLabels=8AB4C8&dates=4A5A66&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=0A0E1A&color=18E0FF&line=18E0FF&point=FFB000&area=true&hide_border=true&custom_title=Contribution%20Telemetry" width="98%" alt="activity graph" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=atulstack0&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
-
-<!-- ╔═══ SNAKE — requires the GitHub Action in the setup section to populate ═══╗ -->
-<img src="https://raw.githubusercontent.com/atulstack0/atulstack0/output/github-snake-dark.svg" alt="contribution snake" width="98%" />
 
 </div>
 
@@ -206,7 +208,7 @@ Let's talk automation architecture, quality at scale, or testing the AI frontier
 
 <a href="mailto:atulstack@gmail.com"><img src="https://img.shields.io/badge/▸_OPEN_A_CHANNEL-18E0FF?style=for-the-badge&labelColor=0A0E1A&logo=minutemailer&logoColor=0A0E1A" alt="contact"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D3B4F,100:0A0E1A&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=18&fontColor=18E0FF&fontAlignY=72&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D3B4F&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=18&fontColor=18E0FF&fontAlignY=72&animation=fadeIn" width="100%" alt="footer" />
 
 `// ATUL PATIL © 2026 · PUNE, IN · BUILT IN THE NEW ERA`
 
