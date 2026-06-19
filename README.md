@@ -1,261 +1,238 @@
-<!-- ◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◉ -->
-<!--         NEURAL NETWORK NODE: ATUL PATIL        -->
-<!--      Synapse Protocol v∞ | AI-QA Consciousness  -->
-<!-- ◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◉ -->
+<!-- ╔═══════════════════════════════════════════════════════════╗ -->
+<!-- ║    J.A.R.V.I.S — Just A Rather Very Intelligent          ║ -->
+<!-- ║         Software-Testing System v3.0 | ATUL.OS           ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=4,18,26&height=270&section=header&text=%F0%9F%A7%A0+ATUL+PATIL&fontSize=60&fontColor=4FC3F7&animation=fadeIn&fontAlignY=48&desc=Neural+QA+Engineer+%7C+Synaptic+Web+Developer+%7C+AI-Powered+Testing&descAlignY=70&descSize=17&descColor=E040FB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,4,16,17&height=270&section=header&text=%E2%9A%A1+SYSTEM+ONLINE+%E2%9A%A1&fontSize=52&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=J.A.R.V.I.S+Protocol+%7C+Atul+Patil+Node+Active&descAlignY=72&descSize=20&descColor=FFD700" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2200&pause=1000&color=4FC3F7&center=true&vCenter=true&width=780&lines=%F0%9F%A7%A0+NEURAL+NETWORK+INITIALIZING...+Model+Loading;%E2%97%89+INPUT+LAYER+%7C+QA+Engineer+%26+Web+Developer+Node;%E2%97%89+HIDDEN+LAYER+%7C+Pattern+Recognition+%7C+Bug+Classification;%E2%97%89+OUTPUT+LAYER+%7C+Zero+Defects+%7C+Quality+Predicted;%E2%96%B3+TRAINING+COMPLETE+%7C+Open+to+Work+%7C+Pune%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=780&lines=%F0%9F%A4%96+JARVIS+AI+ONLINE+%E2%80%94+Operator+Profile+Loading...;%F0%9F%94%8D+QA+Protocol+ACTIVE+%7C+Bug+Termination+Mode+ON;%E2%9A%A1+Selenium+WebDriver+Initialized+%7C+159+Tests+Running...;%F0%9F%93%A1+API+Scanner+Ready+%7C+Postman+Loaded+%26+Locked;%F0%9F%90%9B+Zero-Defect+Mission+%7C+Quality+Guaranteed+%E2%9C%85)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=atulstack0&style=for-the-badge&color=4FC3F7&labelColor=04081A&label=SYNAPTIC+PINGS)
+![Profile Views](https://komarev.com/ghpvc/?username=atulstack0&style=for-the-badge&color=00D4FF&label=%E2%9A%A1+JARVIS+SCANS)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97_NETWORK-LINK-00D4FF?style=for-the-badge&labelColor=0A0E1A)](https://linkedin.com/in/atulstack)
+[![Gmail](https://img.shields.io/badge/%F0%9F%93%A1_COMM-CHANNEL-FFD700?style=for-the-badge&labelColor=0A0E1A)](mailto:atulstack@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_HOLO-DECK-00D4FF?style=for-the-badge&labelColor=0A0E1A)](https://atulstack.netlify.app/)
+[![X](https://img.shields.io/badge/%F0%9F%90%A6_SIGNAL-FEED-FFD700?style=for-the-badge&labelColor=0A0E1A)](https://x.com/atulstack)
+[![LeetCode](https://img.shields.io/badge/%F0%9F%A7%A9_COMPUTE-LAB-00D4FF?style=for-the-badge&labelColor=0A0E1A)](https://leetcode.com/atulstack)
 
 </div>
 
 ---
 
-## 🧠 NEURAL NODE PROFILE — SYSTEM ARCHITECTURE
+## 🖥️ JARVIS OPERATOR PROFILE
 
 ```
-     INPUT LAYER              HIDDEN LAYERS             OUTPUT
-   ╔═══════════╗        ╔════════════════════╗      ╔═══════════╗
-   ║ NAME      ║───────▶║ QA Engineer        ║────▶ ║ BUG-FREE  ║
-   ║ Atul Patil║        ║ Web Developer      ║      ║ SOFTWARE  ║
-   ╚═══════════╝        ╚════════════════════╝      ╚═══════════╝
-   ╔═══════════╗        ╔════════════════════╗      ╔═══════════╗
-   ║ LOCATION  ║───────▶║ Selenium Nets      ║────▶ ║ QUALITY   ║
-   ║ Pune, IN  ║        ║ API Pattern Recog  ║      ║ ASSURED   ║
-   ╚═══════════╝        ╚════════════════════╝      ╚═══════════╝
-   ╔═══════════╗        ╔════════════════════╗      ╔═══════════╗
-   ║ STATUS    ║───────▶║ Manual Inference   ║────▶ ║ OPEN TO   ║
-   ║ 🟢 OPEN  ║        ║ Perf. Prediction   ║      ║ WORK ✅   ║
-   ╚═══════════╝        ╚════════════════════╝      ╚═══════════╝
+╔═══════════════════════════════════════════════════════════════════════╗
+║  ▸ OPERATOR       :  Atul Patil                                       ║
+║  ▸ DESIGNATION    :  QA Engineer & Web Developer                      ║
+║  ▸ LOCATION       :  Pune, Maharashtra, India  📍                     ║
+║  ▸ ACTIVE BASE    :  Chat360                                           ║
+║  ▸ PRIOR MISSION  :  MiM-Essay, South Delhi                           ║
+║  ▸ AVAILABILITY   :  🟢 OPEN — On-site · Hybrid · Remote             ║
+║  ▸ SPECIALIZATION :  Manual · Automation · API · Performance Testing  ║
+║  ▸ THREAT LEVEL   :  🐛 MAXIMUM — No bug escapes detection            ║
+║  ▸ OPERATOR TAG   :  "Catch Bugs, Not Feelings..."                    ║
+╚═══════════════════════════════════════════════════════════════════════╝
 ```
 
 <details>
-<summary>🔬 <b>EXPAND — FULL NEURAL ARCHITECTURE DESCRIPTION</b></summary>
+<summary>🤖 <b>EXPAND — OPERATOR INTELLIGENCE BRIEF</b></summary>
+
 <br/>
 
-> I'm a **self-optimizing QA engineer and web developer** whose mental model of software quality was trained across thousands of test cases, bug reports, and release cycles. I process inputs others miss, recognize defect patterns before they manifest, and output clean, verified software.
+> I'm a **passionate Software Tester and Web Developer** operating as quality guardian for digital systems. Like JARVIS protecting Stark Industries, I protect production from defects — proactively, not reactively.
 
-- 🧠 My training data includes **functionality analysis, usability assessment, and performance benchmarking** — I generalize well to new software systems
-- 🌐 Secondary neural pathway: **responsive, dynamic web application development** using modern JS/HTML/CSS frameworks
-- 🔄 Continuously fine-tuning: **Java**, **Selenium Grid**, **API Testing** patterns with RestAssured
-- 🤝 Seeking to form a **neural ensemble** — collaborating on open-source projects with high-quality teams
-- 💡 Inference protocol: *Prevention > detection > correction. The best QA is invisible.*
-- ⚡ Trained on: error logs, stack traces, and crash reports. Overfitted to quality.
+- 🔍 I dissect applications to expose **functionality gaps, usability flaws, and performance bottlenecks** before they reach end users
+- 🌐 I architect **responsive, dynamic web applications** using precision-tuned front-end stacks
+- 🌱 Currently sharpening my arsenal: **Java**, **Selenium Automation** & **RestAssured API Testing**
+- 🤝 Seeking high-impact **open-source collaborations** with engineers who ship quality code
+- 💡 Doctrine: *Great QA doesn't break things — it prevents them from breaking in production*
+- ⚡ Reads error logs recreationally. Not a bug, it's a feature.
 
 </details>
 
 ---
 
-## ⚡ NEURAL WEIGHTS — TECH STACK PARAMETERS
+## 🔬 WEAPONS ARSENAL — TECH STACK
 
-**◉ Language Model Weights:**
+**⚙️ Core Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css&theme=dark)](https://skillicons.dev)
 
-**◉ Testing Framework Nodes:**
+**🧪 QA & Testing Systems:**
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,postman,git,github&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,postman,github,git&theme=dark)](https://skillicons.dev)
 
-**◉ Deployment Synapses:**
+**🛠️ Deployment & Dev Tools:**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,netlify&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,netlify,github&theme=dark)](https://skillicons.dev)
 
-**◉ Model Performance — Capability Weights:**
+**🎯 Combat Protocols:**
 
-```
-LAYER 1  ◉──[Manual Testing]──────▶ Accuracy: ████████████ 1.00 (EXPERT)
-LAYER 2  ◉──[Automation Testing]──▶ Accuracy: ██████████░░ 0.85 (ADVANCED)
-LAYER 3  ◉──[API Testing]─────────▶ Accuracy: ██████████░░ 0.85 (ADVANCED)
-LAYER 4  ◉──[Performance Testing]─▶ Accuracy: ████████░░░░ 0.75 (ACTIVE)
-LAYER 5  ◉──[Test Case Design]────▶ Accuracy: ████████████ 1.00 (EXPERT)
-LAYER 6  ◉──[Defect Tracking]─────▶ Accuracy: ████████████ 1.00 (EXPERT)
-```
+| Module | Status | Power Level |
+|:---|:---:|:---:|
+| 🕹️ Manual Testing | `ACTIVE` | ████████████ 100% |
+| 🤖 Automation Testing | `ACTIVE` | ██████████░░  85% |
+| 📡 API Testing | `ACTIVE` | ██████████░░  85% |
+| 🔥 Performance Testing (JMeter) | `ACTIVE` | ████████░░░░  75% |
+| 📋 Test Case Design | `ACTIVE` | ████████████ 100% |
+| 🐛 Defect Tracking | `ACTIVE` | ████████████ 100% |
 
 ---
 
-## 📚 TRAINING RUNS — WORK EXPERIENCE
+## 🎖️ MISSION DEPLOYMENTS — EXPERIENCE
 
 <details>
-<summary>🟢 <b>Run #2 — Chat360 | QA Engineer | Pune, India [ACTIVE EPOCH]</b></summary>
+<summary>🏢 <b>Chat360 — QA Engineer [CURRENT MISSION]</b> | Pune, India</summary>
 <br/>
 
-> **Training Domain:** Conversational AI System Quality Assurance  
-> **Dataset:** Real-world NLP chatbot conversations, API calls, user flows  
->
-> - 🤖 Validating language model outputs and conversation pipeline integrity
-> - 🔄 Running continuous regression inference across sprint releases
-> - 📡 API testing with Postman — verifying request/response contracts
-> - ⚡ Embedded in Agile development — early quality feedback loops
->
-> **Model Performance:** 0 critical defects in production. Epoch ongoing. ✅
+> **Objective:** Secure quality at scale for conversational AI products
+> 
+> - 🤖 Testing intelligent chatbot systems and NLP pipeline outputs
+> - 🔁 Building regression and smoke test suites for rapid-release cycles
+> - 📡 API testing of conversational endpoints using Postman
+> - 🧪 Collaborating with devs in Agile sprints to shift-left quality
 
 </details>
 
 <details>
-<summary>✅ <b>Run #1 — MiM-Essay | Tester + Developer | South Delhi [COMPLETED]</b></summary>
+<summary>🏢 <b>MiM-Essay — Software Tester & Web Developer [PRIOR MISSION]</b> | South Delhi</summary>
 <br/>
 
-> **Training Domain:** Dual-role — Full-stack development + QA verification  
-> **Dataset:** Web application features, user stories, client requirements  
->
-> - 🌐 Forward pass: Built responsive web features in HTML/CSS/JS
-> - 🔍 Backward pass: Tested those features against acceptance criteria
-> - 🐛 Error backpropagation: Defect reporting, tracking, and re-verification
-> - 📋 Gradient descent toward zero: All releases approved before deployment
->
-> **Model Performance:** All training objectives achieved. Epoch completed. ✅
+> **Objective:** Dual role — build AND verify. Quality from both sides.
+> 
+> - 🌐 Developed and maintained responsive web application features
+> - ✅ Conducted comprehensive manual & functional testing cycles
+> - 🐛 Tracked and triaged defects using issue management systems
+> - 🤝 Bridged dev and test to deliver polished software to clients
 
 </details>
 
 ---
 
-## 🔗 NEURAL CONNECTIONS — PROJECT GRAPH
-
-<div align="center">
-
-```
-                     ◉ ATUL PATIL NETWORK
-                          ┃
-          ┌───────────────╋───────────────┐
-          ▼               ▼               ▼
-   [Automation]     [Spark-Bank]    [Portfolio]
-    Java+Selenium    JavaScript      HTML/CSS
-    159 commits      Banking UI      Live on
-    WebDriver        Sparks Found.   Netlify ✅
-          │               │               │
-          └───────┬────── ┘               │
-                  ▼                       │
-          [Shape-AI-Bootstrap]            │
-           Bootstrap + HTML              │
-           Responsive UI                 │
-                  │                      │
-                  └──────────────────────┘
-                              │
-                        [25 total repos]
-                   github.com/atulstack0
-```
-
-</div>
+## 🚀 PROJECT CODENAMES
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Automation&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=E040FB)](https://github.com/atulstack0/Automation)
+### 🤖 [Project: AUTOMATION](https://github.com/atulstack0/Automation)
+**Language:** `Java` + `Selenium WebDriver`
+
+> Core automation framework — 159 commits deep. WebDriver connections, RSA locator patterns, assertion chains, implicit/explicit waits, dropdown handling, and live-site test scenarios (SpiceJet, ClearTrip, Google).
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Automation&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FFD700)](https://github.com/atulstack0/Automation)
 
 </td>
-<td>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Spark-Bank&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=E040FB)](https://github.com/atulstack0/Spark-Bank)
+### 💳 [Project: SPARK-BANK](https://github.com/atulstack0/Spark-Bank)
+**Language:** `JavaScript` + `HTML` + `CSS`
+
+> Web Development Project for the Sparks Foundation — a fully functional, responsive banking interface built to demonstrate real-world web dev skills with clean UI and dynamic interactions.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Spark-Bank&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FFD700)](https://github.com/atulstack0/Spark-Bank)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Portfolio&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=E040FB)](https://github.com/atulstack0/Portfolio)
+### 🌐 [Project: PORTFOLIO](https://github.com/atulstack0/Portfolio)
+**Stack:** `HTML5` · `CSS3` · `Netlify`
+
+> Digital identity hub — responsive, fast, clean. My professional showcase as a QA engineer and web developer, deployed live with continuous delivery on Netlify.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Portfolio&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FFD700)](https://github.com/atulstack0/Portfolio)
 
 </td>
-<td>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Shape-Ai-Bootstrap-Project&theme=tokyonight&hide_border=true&title_color=4FC3F7&icon_color=E040FB)](https://github.com/atulstack0/Shape-Ai-Bootstrap-Project)
+### 🔷 [Project: SHAPE-AI](https://github.com/atulstack0/Shape-Ai-Bootstrap-Project)
+**Stack:** `HTML` · `CSS` · `Bootstrap`
+
+> Bootstrap-powered landing project built with AI/shape-themed UI layout. Demonstrates responsive grid systems, component-level design, and mobile-first layout thinking.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=atulstack0&repo=Shape-Ai-Bootstrap-Project&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=FFD700)](https://github.com/atulstack0/Shape-Ai-Bootstrap-Project)
 
 </td>
 </tr>
 </table>
 
-> 🔗 [**Full neural repo graph — 25 connected nodes →**](https://github.com/atulstack0?tab=repositories)
+> 🗂️ [**Explore all 25 repositories in the JARVIS vault →**](https://github.com/atulstack0?tab=repositories)
 
 ---
 
-## 📊 MODEL METRICS — PERFORMANCE BENCHMARKS
+## 📊 JARVIS DIAGNOSTICS — SYSTEM METRICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4FC3F7&icon_color=E040FB&text_color=FFFFFF&bg_color=04081A" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulstack0&theme=tokyonight&hide_border=true&ring=4FC3F7&fire=E040FB&currStreakLabel=4FC3F7&background=04081A&sideLabels=E040FB&sideNums=FFFFFF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atulstack0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00D4FF&icon_color=FFD700&text_color=FFFFFF&bg_color=0A0E1A" alt="JARVIS GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atulstack0&theme=tokyonight&hide_border=true&ring=00D4FF&fire=FFD700&currStreakLabel=00D4FF&background=0A0E1A" alt="JARVIS Streak" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulstack0&layout=compact&theme=tokyonight&hide_border=true&title_color=4FC3F7&bg_color=04081A&text_color=FFFFFF&langs_count=6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulstack0&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4FF&bg_color=0A0E1A&text_color=FFFFFF&langs_count=6" alt="Top Langs" width="49%"/>
 
 </div>
 
 ---
 
-## 🌐 ACTIVATION MAP — CONTRIBUTION HEATMAP
+## 🗺️ JARVIS CONTRIBUTION HEATMAP
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=04081A&color=4FC3F7&line=E040FB&point=FFFFFF&area=true&area_color=0D1A40&hide_border=true&custom_title=%F0%9F%A7%A0+Neural+Activation+Map+%7C+Synaptic+Contribution+Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atulstack0&bg_color=0A0E1A&color=00D4FF&line=FFD700&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=%E2%9A%A1+JARVIS+Contribution+Analysis+%7C+Activity+Heatmap" width="95%"/>
+
+</div>
+
+> 🐍 **OPTIONAL POWER-UP:** Add a Snake Animation to your contributions by creating `.github/workflows/snake.yml` with `platane/snk@v3` Action. [Setup Guide →](https://github.com/platane/snk)
+
+---
+
+## 🏆 JARVIS ACHIEVEMENT RECORDS
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=atulstack0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=00D4FF)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENT PARAMETERS — CERTIFIED NODE BENCHMARKS
+## 🎓 TRAINING ORIGIN
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=atulstack0&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-![Quickdraw](https://img.shields.io/badge/🏅_QUICKDRAW-SYNAPSE_FIRED-4FC3F7?style=for-the-badge&labelColor=04081A)
-![Pull Shark](https://img.shields.io/badge/🦈_PULL_SHARK_×2-WEIGHT_UPDATED-E040FB?style=for-the-badge&labelColor=04081A)
-![YOLO](https://img.shields.io/badge/🎲_YOLO-DROPOUT_DISABLED-4FC3F7?style=for-the-badge&labelColor=04081A)
-
-</div>
+```
+▸ ACADEMY     : Vidhyanchal Shikshan Sanstha
+▸ FOUNDATION  : Software Engineering & Technology
+▸ CLEARANCE   : Certified for Production Deployments ✅
+```
 
 ---
 
-## 📖 PRE-TRAINING DATA — EDUCATION
-
-> **◉ INSTITUTION:** Vidhyanchal Shikshan Sanstha  
-> **◉ CORPUS:** Technology & Software Engineering  
-> **◉ EPOCHS:** Completed ✅  
-> **◉ BASE MODEL:** Primed for production QA and web development
-
----
-
-## 📡 OUTPUT LAYER — CONNECT WITH THE NETWORK
+## 📡 OPEN COMM CHANNELS
 
 <div align="center">
 
-| ◉ Node | ◉ Endpoint | ◉ Signal |
+| Protocol | Target | Status |
 |:---:|:---:|:---:|
-| 💼 LinkedIn | [linkedin.com/in/atulstack](https://linkedin.com/in/atulstack) | `ACTIVE` |
-| 🐦 X | [@atulstack](https://x.com/atulstack) | `ACTIVE` |
-| 🌐 Portfolio | [atulstack.netlify.app](https://atulstack.netlify.app/) | `LIVE` |
-| 📧 Email | [atulstack@gmail.com](mailto:atulstack@gmail.com) | `OPEN` |
-| 💻 GitHub | [@atulstack0](https://github.com/atulstack0) | `PUBLIC` |
-| 🧩 LeetCode | [leetcode.com/atulstack](https://leetcode.com/atulstack) | `SOLVING` |
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4FC3F7?style=for-the-badge&logo=linkedin&logoColor=04081A)](https://linkedin.com/in/atulstack)
-[![X](https://img.shields.io/badge/X_(Twitter)-E040FB?style=for-the-badge&logo=x&logoColor=04081A)](https://x.com/atulstack)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=firefox-browser&logoColor=04081A)](https://atulstack.netlify.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-E040FB?style=for-the-badge&logo=gmail&logoColor=04081A)](mailto:atulstack@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-4FC3F7?style=for-the-badge&logo=leetcode&logoColor=04081A)](https://leetcode.com/atulstack)
+| 💼 **LinkedIn** | [linkedin.com/in/atulstack](https://linkedin.com/in/atulstack) | 🟢 ACTIVE |
+| 🐦 **X Signal** | [@atulstack](https://x.com/atulstack) | 🟢 ACTIVE |
+| 🌐 **HoloDeck** | [atulstack.netlify.app](https://atulstack.netlify.app/) | 🟢 ONLINE |
+| 📧 **Comm Link** | [atulstack@gmail.com](mailto:atulstack@gmail.com) | 🟢 LISTENING |
+| 💻 **Vault** | [@atulstack0](https://github.com/atulstack0) | 🟢 OPEN |
+| 🧩 **Compute Lab** | [leetcode.com/atulstack](https://leetcode.com/atulstack) | 🟢 SOLVING |
 
 </div>
 
@@ -263,9 +240,9 @@ LAYER 6  ◉──[Defect Tracking]─────▶ Accuracy: █████�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=4,18,26&height=145&section=footer&text=%F0%9F%A7%A0+NEURAL+NETWORK+SIGNING+OFF&fontSize=28&fontColor=4FC3F7&animation=fadeIn&fontAlignY=50&desc=Quality+is+not+a+feature.+It+is+the+foundation.&descAlignY=75&descSize=15&descColor=E040FB" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,4,16,17&height=140&section=footer&text=JARVIS+SIGNING+OFF...&fontSize=28&fontColor=00D4FF&animation=fadeIn&fontAlignY=55&desc=Stay+quality-first.+Always.&descAlignY=78&descSize=16&descColor=FFD700" width="100%"/>
 
-**◉ *"Catch Bugs, Not Feelings..."* 🐛**  
-*Neural Node: Atul Patil · Pune, India 🇮🇳 · atulstack0*
+> **⚡ "Catch Bugs, Not Feelings..." ⚡**  
+> *JARVIS Protocol · Powered by Atul Patil · Pune, India 🇮🇳*
 
 </div>
