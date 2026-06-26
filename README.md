@@ -52,7 +52,7 @@
 
 I'm a **QA Lead & SDET at Chat360**, an AI-powered omnichannel SaaS platform in Pune. I lead a **10-engineer QA team** — owning test strategy, framework architecture, and sprint-level quality gates across product, engineering, and AI/ML teams.
 
-I architected a **Java + Selenium + TestNG + Maven** framework on the Page Object Model that **cut manual testing effort by 40%**, and built **Rest Assured** suites across **50+ REST endpoints** wired into Jenkins CI/CD nightly pipelines.
+I architected a **Java + Selenium + TestNG + Maven** framework on the Page Object Model that **cut manual testing effort by 40%**, and built **Rest Assured** suites across **60+ REST endpoints** wired into Jenkins CI/CD nightly pipelines.
 
 > **What sets me apart →** I test the *non-deterministic*. Traditional QA assumes a fixed expected output; LLM features don't play by those rules. I built evaluation strategies for a production NLP chatbot engine — **intent classification, fallback logic & prompt-response integrity across 120+ language inputs** — plus hallucination detection with **DeepEval, Promptfoo & Giskard**. Zero-critical-escape releases.
 
