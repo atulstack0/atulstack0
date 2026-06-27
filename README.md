@@ -12,7 +12,7 @@
 <!-- ╔═══ BOOT SEQUENCE ═══╗ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=18E0FF&center=true&vCenter=true&width=860&height=140&lines=%3E+initializing+core+systems+....+%5BOK%5D;%3E+loading+skill+matrix+%3A+java%2Fselenium%2Frest-assured+%5BOK%5D;%3E+mounting+genai%2Fllm+eval+modules+%5BOK%5D;%3E+calibrating+HUD+interface+%5BOK%5D;%3E+authenticating+operator+%3A+A.PATIL+%5BOK%5D" alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=18E0FF&center=true&vCenter=true&width=860&height=140&lines=%3E+initializing+core+systems+....+%5BOK%5D;%3E+loading+skill+matrix+%3A+java%2Fselenium%2Frest-assured+%5BOK%5D;%3E+mounting+genai%2Fllm+eval+modules+%5BOK%5D;%3E+calibrating+HUD+interface+%5BOK%5D;%3E+authenticating+operator+%3A+A.PATIL+%5BOK%5D" alt="boot sequence"/>
 
 </div>
 
