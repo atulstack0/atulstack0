@@ -21,7 +21,7 @@
 
 <div align="center">
 
-`// SYS.PROFILE.v2 — STATUS: ONLINE // PUNE · IN · 18.52°N 73.85°E`
+`// STATUS: ONLINE // LOCATION:  PUNE · IN · 18.52°N 73.85°E`
 
 ### ⚡ "Catch Bugs, Not Feelings..."
 
