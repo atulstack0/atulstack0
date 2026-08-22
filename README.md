@@ -23,7 +23,7 @@
 
 `// STATUS: ONLINE // LOCATION:  PUNE · IN · 18.52°N 73.85°E`
 
-### ⚡ "Catch Bugs, Not Feelings..."
+### ⚡ Catch Bugs, Not Feelings...
 
 <a href="https://www.linkedin.com/in/atulstack/"><img src="https://img.shields.io/badge/LINKEDIN-0A0E1A?style=for-the-badge&logo=linkedin&logoColor=18E0FF" alt="linkedin"/></a>
 <a href="https://github.com/atulstack0"><img src="https://img.shields.io/badge/GITHUB-0A0E1A?style=for-the-badge&logo=github&logoColor=18E0FF" alt="github"/></a>
