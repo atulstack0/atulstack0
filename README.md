@@ -5,7 +5,7 @@
   ─────────────────────────────────────────────────────────────────────────
   NOTE: GitHub strips JS/CSS, so the "animation" comes from live SVG services
   (typing, waves, stat cards, snake). All cards auto-update on their own.
-  The SNAKE image needs the one-time GitHub Action setup (see bottom of file).
+  The SNAKE image needs the one-time GitHub Action setup (see bottom of file)
 ═══════════════════════════════════════════════════════════════════════════
 -->
 
